@@ -1,0 +1,7 @@
+expense_tracker
+expense_tracker.exe
+*.o
+expenses.txt
+expenses.tmp
+expenses.bak
+__pycache__/
